@@ -1,8 +1,8 @@
 let change = "change"
 let selfDisplay = document.getElementById("selfDisplay")
-let bgImage = "portfolio-img.jpeg";
+let bgImage = "portfolio-img.png";
 let textArray = [
-    "I'm Ismail Mubarokah Opeyemi. A Software Developer."
+    "I'm Ismail Barakat Opeyemi, a Frontend Developer."
 
 ]
 let phase = []
